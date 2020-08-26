@@ -2,7 +2,7 @@
 In the previous semester, I worked on a project based on custom object detection. I used following libraries/software tools to train custom model.
 
 1. Python 3.6.8
-2. TensorFlow 1.8.0 (2.0.0 version tried but had an issue with my CPU based laptop)
+2. TensorFlow 1.8.0 (I tried TensorFlow 2.0.0 version but had an issue with my CPU based laptop)
 3. LabelImg - for creating labels within image files and generating xml for each of the images.
 4. Following libraries
    - pip install --user opencv-python
