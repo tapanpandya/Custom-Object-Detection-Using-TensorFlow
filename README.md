@@ -5,7 +5,7 @@ In the previous semester, I worked on a project based on custom object detection
 2. TensorFlow 1.8.0 (I tried TensorFlow 2.0.0 version but had an issue with my CPU based laptop)
 3. LabelImg - for creating labels within image files and generating xml for each of the images.
 4. Following libraries
-   - pip install --user opencv-python
+   	 - pip install --user opencv-python
 	 - pip install --user Cython
 	 - pip install --user contextlib2
 	 - pip install --user pillow
